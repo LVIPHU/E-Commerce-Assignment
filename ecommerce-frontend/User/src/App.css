@@ -1,0 +1,20 @@
+
+.section-body{
+    display: flex;
+    margin-top: 60px;
+}
+.accordion{
+    margin-top: 30px;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-card{
+    width: 300px;
+    margin-bottom: 10px;
+}
+.product-center{
+    justify-content: center;
+}
